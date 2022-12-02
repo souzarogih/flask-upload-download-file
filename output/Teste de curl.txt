@@ -1,0 +1,1 @@
+curl -fv -H 'Accept: application/json' 'https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyB6qVUpFZLIKc-uWdJZD6aoFQTszsRYYKk&address=58046-518&new_forward_geocoder=true&region=br&sensor=false'
